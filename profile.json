@@ -1,7 +1,7 @@
 {
   "email": { "address": "noreply@nomadops.io" },
   "blog": "https://myblog.com/" ,
-  "github": "dev-profiles" ,
+  "github": "profiles-demo" ,
   "gpg_keys": "https://keybase.io/dev-profiles/pgp_keys.asc" ,
   "keybase":  "https://keybase.io/dev-profiles" ,
   "linkedin":  "https://linkedin.com/in/dev-profiles",
