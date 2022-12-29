@@ -36,9 +36,9 @@
     "jenkins",
     "golang"
   ],
-  "long_summary": "I have been working with production infrastructure for about 25 years. My primary interests are implementing DevOps pipelines with Infrastructure as Code. I love working with AWS Terraform/Terragrunt, Kubernetes and Golang. ",
+  "long_summary": "Demonstration account for the profiles.dev service",
   "name": "Cruftyold Sysadmin",
-  "profile_image": "https://avatars.githubusercontent.com/u/20204452?v=4",
+  "profile_image": "https://avatars.githubusercontent.com/u/92489498?v=4",
   "short_summary": "Infrastructure as code consulting.",
   "languages": [
     { "name": "English", "level": "native" }
