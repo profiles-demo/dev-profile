@@ -19,7 +19,7 @@
   ],
   "headline": "Profiles demo account.",
   "industries": [ "startups", "cloud" ],
-  "job_title": "Giving demonstrations of the profiles.dev services.",
+  "job_title": "Giving demos of the profiles.dev services.",
   "keywords": [
     "terraform",
     "terragrunt",
