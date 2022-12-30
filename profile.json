@@ -17,7 +17,7 @@
       "description": "Terraform module to provision driftctl."
     }
   ],
-  "headline": "Profiles demo account.",
+  "headline": "profiles.dev demo account.",
   "industries": [ "startups", "cloud" ],
   "job_title": "Giving demos of the profiles.dev services",
   "keywords": [
