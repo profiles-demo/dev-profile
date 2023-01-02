@@ -14,7 +14,7 @@
   "github_repositories": [
     {
       "name": "nomadops/driftctl-slack",
-      "description": "Terraform module to provision driftctl."
+      "description": "Terraform module to provision driftctl-slack."
     }
   ],
   "headline": "profiles.dev demo account.",
